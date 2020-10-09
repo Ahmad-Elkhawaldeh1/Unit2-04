@@ -1,6 +1,6 @@
 
 /*
-turn on RGB LED lights repeatedly for 7 diffrwnt co loures
+turn on RGB LED lights repeatedly for 7 diffrwnt coloures
 created by: Ahmad El-khawaldeh
 created on: oct5
 */
